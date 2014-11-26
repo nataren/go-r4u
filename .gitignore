@@ -8,6 +8,9 @@ _obj
 _test
 bin
 pkg
+src/code.google.com
+src/github.com
+src/gopkg.in
 
 # Architecture specific extensions/prefixes
 *.[568vq]
