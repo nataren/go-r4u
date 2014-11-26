@@ -22,3 +22,7 @@ func (c App) Hello(myName string) revel.Result {
 	}
 	return c.Render(myName)
 }
+
+func (c App) Hi(myName string) revel.Result {
+	return c.Render()
+}
